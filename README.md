@@ -32,3 +32,7 @@ To run pylint:
 ```
 make lint
 ```
+
+## Requirements
+
+This package runs with python3 and pytest.
