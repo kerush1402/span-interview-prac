@@ -3,7 +3,7 @@
 This is a python project3 project. This project evaluates a list of Football matches played by teams (provided by stdin or file). A team is awarded points based on the outcome of a match. For example:
 - 3 points to the team that WINS
 - 1 points to both teams if DRAW
-- 0 points to the team that loses
+- 0 points to the team that LOSES
 
 Teams are then ranked (high -> low) based on the points they have accumulated. In cases where teams have the same point, they will be sorted alphabetically.
 
